@@ -6810,86 +6810,86 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-         0          0          0          0          0       1969   ak8963.o
-       532         30          0          7          0       3146   anomal_detec.o
-      5296        222          0         18          0      18232   atkp.o
-       984        160          0          0        336       5804   attitude_pid.o
-       852         90          0         32         48       6145   bmp280.o
-        52          8          0          1          0       1470   comm.o
-      1560        154          0         22        104      10691   commander.o
-       522        120          0        128        116       6197   config_param.o
-       360         48          5          5         32       3764   console.o
-       244        100          1         12          0       5592   debug_assert.o
-       164         14          0          6          0       2348   delay.o
-       498          8          0          5          0      12834   exti.o
-       374         14          0          0          0       7621   filter.o
-      1308        146          0         40          0       3236   flip.o
-        64         20          0          0          0        739   freertosdebug.o
-       532         70          0         24      30720       5066   heap_4.o
-      1818         44         80        100          0      16117   i2c_drv.o
-       470          0          0          0          0       7391   i2cdev.o
-       378         26          0         64          0       4241   led.o
-      3124        176        114        116        256      13845   ledring12.o
-       812        112        128         32        160       7640   ledseq.o
-       148          0          0          0          0       5170   list.o
-       548        220          0          8          0     324882   main.o
-       200         32          0          0          0       3023   misc.o
-       526         44          0          9         20       3355   module_detect.o
-       182         38          0          5          0       2874   module_mgt.o
-       670         58         16          1         16       3993   motors.o
-      1020        242          0          9         30      20681   mpu6500.o
-       810        296          0          4          0       7541   nvic.o
-       334         20          0          0          0       3095   pid.o
-       544         92          0         24          0       6439   pm.o
-       460         58          0          4          0      10516   port.o
-      1152        136          0         12        196       7093   position_pid.o
-       466         24          0          1         32       4803   power_control.o
-      1966         22          0          0         80      27205   queue.o
-      1020        408          0          8         64       6213   radiolink.o
-       356         24          0          6         22       2534   remoter_ctrl.o
-      1412        100          0         64          0       3106   sensfusion6.o
-      2932        350          0         72       6437      23239   sensors.o
-       324         54          0          2        204       7186   stabilizer.o
-        36          8        408          0       1024        900   startup_stm32f411xe.o
-       450         44          0          6         32       3277   state_control.o
-       444         32          0         32          0       3840   state_estimator.o
-       392         24          0          0          0       6123   stm32f4xx_adc.o
-       830         72          0          0          0      10612   stm32f4xx_dma.o
-       196         22          0          0          0       3001   stm32f4xx_exti.o
-       426         40          0          0          0       5120   stm32f4xx_flash.o
-       258          0          0          0          0       4597   stm32f4xx_gpio.o
-       516         28          0          0          0       8128   stm32f4xx_i2c.o
-        68         30          0          0          0       2970   stm32f4xx_iwdg.o
-       508         64          0         16          0       8418   stm32f4xx_rcc.o
-        64          4          0          0          0        732   stm32f4xx_syscfg.o
-      1120        112          0          0          0      10623   stm32f4xx_tim.o
-       448          8          0          0          0       6712   stm32f4xx_usart.o
-       350         50          0          0          0       3539   stmflash.o
-       208         28          0          0          0       1293   system.o
-       336         32          0          0          0       1761   system_stm32f4xx.o
-      2688        400          0         60        300      32877   tasks.o
-      1092        114          0         20         40      12290   timers.o
-       336         34          0          8          0       3177   uart1.o
-      1240        228          0         33        124      35987   uart_syslink.o
-        16          0          0          6          0       2716   usart.o
-       184          6          0          0          0       3223   usb_bsp.o
-      3430         18          0          0          0      44036   usb_core.o
-       666          0          0          0          0       6944   usb_dcd.o
-      2240         98          0          0          0      11239   usb_dcd_int.o
-       892        110          0        152        643      10426   usbd_cdc_core.o
-       416         52          0         36       1724       8831   usbd_cdc_vcp.o
-       784          6          0         52          0      12912   usbd_core.o
-       434        170          0         86        255       8159   usbd_desc.o
-       224          0          0          0          0       5284   usbd_ioreq.o
-      1756         56          0         13          0      12346   usbd_req.o
-        98         28          0         32          0       5615   usbd_usr.o
-       684        190          0          8         32       4250   usblink.o
-       172         66          0          0          0       1338   watchdog.o
-       692         66          0         10         22       5179   wifi_ctrl.o
-       964        106          0         16         96       5460   ws2812.o
+         0          0          0          0          0       1773   ak8963.o
+       532         30          0          7          0       2754   anomal_detec.o
+      5296        222          0         18          0      16164   atkp.o
+       984        160          0          0        336       4920   attitude_pid.o
+       852         90          0         32         48       5361   bmp280.o
+        52          8          0          1          0       1178   comm.o
+      1560        154          0         22        104       9135   commander.o
+       522        120          0        128        116       5309   config_param.o
+       360         48          5          5         32       3172   console.o
+       244        100          1         12          0       5008   debug_assert.o
+       164         14          0          6          0       1960   delay.o
+       498          8          0          5          0      10586   exti.o
+       374         14          0          0          0       7233   filter.o
+      1308        146          0         40          0       2844   flip.o
+        64         20          0          0          0        639   freertosdebug.o
+       532         70          0         24      30720       4382   heap_4.o
+      1818         44         80        100          0      13957   i2c_drv.o
+       470          0          0          0          0       6515   i2cdev.o
+       378         26          0         64          0       3549   led.o
+      3124        176        114        116        256      12177   ledring12.o
+       812        112        128         32        160       6564   ledseq.o
+       148          0          0          0          0       4590   list.o
+       548        220          0          8          0     321838   main.o
+       200         32          0          0          0       2535   misc.o
+       526         44          0          9         20       2867   module_detect.o
+       182         38          0          5          0       2382   module_mgt.o
+       670         58         16          1         16       3409   motors.o
+      1020        242          0          9         30      17629   mpu6500.o
+       810        296          0          4          0       6285   nvic.o
+       334         20          0          0          0       2607   pid.o
+       544         92          0         24          0       5451   pm.o
+       460         58          0          4          0       9456   port.o
+      1152        136          0         12        196       6125   position_pid.o
+       466         24          0          1         32       4019   power_control.o
+      1966         22          0          0         80      24853   queue.o
+      1020        408          0          8         64       5321   radiolink.o
+       356         24          0          6         22       2142   remoter_ctrl.o
+      1412        100          0         64          0       2718   sensfusion6.o
+      2932        350          0         72       6437      20387   sensors.o
+       324         54          0          2        204       6002   stabilizer.o
+        36          8        408          0       1024        816   startup_stm32f411xe.o
+       450         44          0          6         32       2781   state_control.o
+       444         32          0         32          0       3240   state_estimator.o
+       392         24          0          0          0       5343   stm32f4xx_adc.o
+       830         72          0          0          0       9240   stm32f4xx_dma.o
+       196         22          0          0          0       2509   stm32f4xx_exti.o
+       426         40          0          0          0       4336   stm32f4xx_flash.o
+       258          0          0          0          0       3917   stm32f4xx_gpio.o
+       516         28          0          0          0       6944   stm32f4xx_i2c.o
+        68         30          0          0          0       2470   stm32f4xx_iwdg.o
+       508         64          0         16          0       7354   stm32f4xx_rcc.o
+        64          4          0          0          0        636   stm32f4xx_syscfg.o
+      1120        112          0          0          0       9159   stm32f4xx_tim.o
+       448          8          0          0          0       5820   stm32f4xx_usart.o
+       350         50          0          0          0       3055   stmflash.o
+       208         28          0          0          0       1101   system.o
+       336         32          0          0          0       1465   system_stm32f4xx.o
+      2688        400          0         60        300      29653   tasks.o
+      1092        114          0         20         40      10730   timers.o
+       336         34          0          8          0       2685   uart1.o
+      1240        228          0         33        124      34515   uart_syslink.o
+        16          0          0          6          0       2424   usart.o
+       184          6          0          0          0       2739   usb_bsp.o
+      3430         18          0          0          0      40804   usb_core.o
+       666          0          0          0          0       6056   usb_dcd.o
+      2240         98          0          0          0       9867   usb_dcd_int.o
+       892        110          0        152        643       9250   usbd_cdc_core.o
+       416         52          0         36       1724       7659   usbd_cdc_vcp.o
+       784          6          0         52          0      11140   usbd_core.o
+       434        170          0         86        255       7067   usbd_desc.o
+       224          0          0          0          0       4596   usbd_ioreq.o
+      1756         56          0         13          0      10794   usbd_req.o
+        98         28          0         32          0       4639   usbd_usr.o
+       684        190          0          8         32       3666   usblink.o
+       172         66          0          0          0       1138   watchdog.o
+       692         66          0         10         22       4399   wifi_ctrl.o
+       964        106          0         16         96       4672   ws2812.o
 
     ----------------------------------------------------------------------
-     60752       6126        796       1468      43176     930971   Object Totals
+     60752       6126        796       1468      43176     854475   Object Totals
          0          0         32          0          0          0   (incl. Generated)
         80          0         12         41         11          0   (incl. Padding)
 
@@ -6976,8 +6976,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     73296       7038       1292       1472      43176     874555   Grand Totals
-     73296       7038       1292        488      43176     874555   ELF Image Totals (compressed)
+     73296       7038       1292       1472      43176     798059   Grand Totals
+     73296       7038       1292        488      43176     798059   ELF Image Totals (compressed)
      73296       7038       1292        488          0          0   ROM Totals
 
 ==============================================================================
