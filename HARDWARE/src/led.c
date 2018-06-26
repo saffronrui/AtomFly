@@ -39,6 +39,7 @@ static led_t leds[LED_NUM] =
 };
 
 /* LED≥ı ºªØ */
+// return null
 void ledInit(void)
 {
 	if(isInit)	return;
